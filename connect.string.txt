@@ -1,0 +1,1 @@
+mongodb://admin:underground@localhost:27017/wmspoc
